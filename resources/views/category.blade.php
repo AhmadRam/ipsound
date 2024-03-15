@@ -31,7 +31,7 @@
                 </div>
 
                 <div class="row">
-                    @foreach ($products as $product)
+                    @foreach ($category->products as $product)
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch" style="margin-bottom:20px">
                             <a href="/product/{{ $product->url_key }}" class="card-link">
                                 <div class="card" data-aos="fade-up" data-aos-delay="100">
