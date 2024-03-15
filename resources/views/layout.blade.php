@@ -148,7 +148,7 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#about">About Us</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#products">Our Products</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Out Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Our Services</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact Us</a></li>
                         </ul>
                     </div>
