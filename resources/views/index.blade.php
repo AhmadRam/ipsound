@@ -706,10 +706,9 @@
                     <h2>Contact</h2>
                     <p>Contact Us</p>
                 </div>
-
                 <div>
                     <iframe style="border:0; width: 100%; height: 270px;"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58711.51917583713!2d113.29707399290785!3d23.11649163325394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3402f895a35c2bc7%3A0xe59e075adeae415!2z2YLZiNin2YbYqti02YjYjCDYutmI2KfZhti62K_ZiNmG2LrYjCDYp9mE2LXZitmG!5e0!3m2!1sar!2str!4v1710275683161!5m2!1sar!2str"
+                        src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d27284.823153596848!2d121.62641515501272!3d31.2594146291348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRoom%20306%2C%20No.%20255%20New%20Jinqiao%20Road%2C%20Pudong%20New%20Area%2C%20Shanghai%C2%A0201206%2C%C2%A0China!5e0!3m2!1sar!2str!4v1711215543352!5m2!1sar!2str"
                         frameborder="0" allowfullscreen></iframe>
                 </div>
                 <div class="row mt-5">
@@ -719,7 +718,7 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>Guangzhou, China</p>
+                                <p>Room 306, No. 255 New Jinqiao Road, Pudong New Area, Shanghai 201206, China</p>
                             </div>
 
                             <div class="email">

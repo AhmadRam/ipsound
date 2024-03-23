@@ -106,7 +106,7 @@
                             <h3><img width="150" src="{{ asset('assets/img/logo.png') }}" alt=""
                                     class="img-fluid"></h3>
                             <p>
-                                Guangzhou, China<br><br>
+                                Room 306, No. 255 New Jinqiao Road, Pudong New Area, Shanghai 201206, China<br><br>
                                 <strong>Phone:</strong> +1 5589 55488 55<br>
                                 <strong>Email:</strong> info@ipsound.com<br>
                             </p>
