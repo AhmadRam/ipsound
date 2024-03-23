@@ -730,7 +730,7 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+1 5589 55488 55</p>
+                                <p><a href="whatsapp://send?phone=8613141214113">+8613141214113</a></p>
                             </div>
 
                         </div>

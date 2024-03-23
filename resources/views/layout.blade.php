@@ -107,7 +107,8 @@
                                     class="img-fluid"></h3>
                             <p>
                                 Room 306, No. 255 New Jinqiao Road, Pudong New Area, Shanghai 201206, China<br><br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
+                                <strong>Phone:</strong> <a
+                                    href="whatsapp://send?phone=8613141214113">+8613141214113</a><br>
                                 <strong>Email:</strong> info@ipsound.com<br>
                             </p>
                             <div class="social-links mt-3">
