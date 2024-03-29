@@ -305,7 +305,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
+                    {{-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
                         data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-arch"></i></div>
@@ -315,7 +315,7 @@
                                 or commercial use, trust in our RO systems to provide you with refreshment that exceeds
                                 expectations, every drop, every time.</p>
                         </div>
-                    </div>
+                    </div> --}}
 
                 </div>
 
